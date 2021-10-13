@@ -1,0 +1,6 @@
+[submodule "gs-serving-web-content"]
+	path = gs-serving-web-content
+	url = https://github.com/mrtineide/gs-serving-web-content
+[submodule "react-tutorial/my-app"]
+	path = react-tutorial/my-app
+	url = https://github.com/mrtineide/react-tut-dat250
